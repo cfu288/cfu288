@@ -1,5 +1,5 @@
 # Other Projects
-- **[Space Interns](https://www.spaceinterns.org)** - Building a platform to help students and young professionals who are underrepresented in the aerospace industry kickstart their careers by matching them to opportunities that are the perfect fit for them. Funded in part by the [New York Space Grant](https://www.nyspacegrant.org)
+- **[Space Interns](https://www.spaceinterns.org)** - Building a platform to help students and young professionals who are underrepresented in the aerospace industry kickstart their careers by matching them to opportunities that are the perfect fit for them. Funded in part by the [NASA New York Space Grant](https://www.nyspacegrant.org)
 
 # BOINC Statistics
 ![boincstats](https://www.boincstats.com/signature/-1/user/140998911720/sig.png)
